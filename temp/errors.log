@@ -1,0 +1,335 @@
+[2019-09-21 13:59:23] Текст ошибки: Не найден контроллер с именем: app\controllers\ImController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-21 13:59:29] Текст ошибки: Не найден контроллер с именем: app\controllers\ImgController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-21 14:00:14] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/Page/index.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-21 14:00:48] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/Page/index.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-21 14:01:52] Текст ошибки: Не найден контроллер с именем: app\controllers\AjaController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-21 14:02:31] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 14:20:24] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 14:25:19] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\maxkoltan.ru\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 14:25:20] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\maxkoltan.ru\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 14:36:08] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 14:37:03] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 14:37:25] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 14:37:33] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 18:26:59] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 18:29:07] Текст ошибки: Не найден контроллер с именем: app\controllers\mklogadmin\LoginController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-21 18:29:36] Текст ошибки: Не найден метод с именем: cssAction в контроллере: app\controllers\mklogadmin\PrivateController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 61
+============================
+[2019-09-21 22:26:10] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 22:28:24] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 22:29:48] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 22:31:51] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 22:35:21] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 22:36:01] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 22:44:23] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 22:45:08] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-21 22:47:04] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 14:14:24] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 18:54:16] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 18:57:46] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 19:02:46] Текст ошибки: Не найден контроллер с именем: app\controllers\PortfolioController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-22 19:03:11] Текст ошибки: Не найден контроллер с именем: app\controllers\ImgController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-22 19:03:20] Текст ошибки: Не найден контроллер с именем: app\controllers\ImageController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-22 19:03:24] Текст ошибки: Не найден контроллер с именем: app\controllers\ImagController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-22 19:05:26] Текст ошибки: Не найден контроллер с именем: app\controllers\AdminController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-22 20:11:13] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 20:11:18] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 20:19:28] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:03:32] Текст ошибки: Не найден метод с именем: messageAction в контроллере: app\controllers\AjaxController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 61
+============================
+[2019-09-22 21:03:48] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/Ajax/message.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-22 21:11:07] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/Ajax/message.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-22 21:20:27] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/Ajax/message.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-22 21:25:15] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:25:16] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:25:17] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:26:01] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:26:02] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:26:04] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:26:13] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:26:15] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:26:19] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:26:59] Текст ошибки: Не найден контроллер с именем: app\controllers\mklogadmin\AjaxController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-09-22 21:27:25] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/Ajax/message.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-22 21:28:34] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/Ajax/message.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-22 21:28:39] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/Ajax/message.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-22 21:30:48] Текст ошибки: Не найден метод с именем: messageAction в контроллере: app\controllers\AjaxController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 61
+============================
+[2019-09-22 21:30:51] Текст ошибки: Не найден метод с именем: messageAction в контроллере: app\controllers\AjaxController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 61
+============================
+[2019-09-22 21:33:35] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:35:40] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:39:53] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:40:40] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:42:46] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:52:20] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:54:41] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:56:21] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:56:41] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:56:47] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:57:26] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:57:27] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:57:30] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:57:31] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:58:05] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:58:13] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:58:40] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:58:43] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:58:54] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:59:18] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:59:19] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:59:20] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:59:21] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:59:23] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:59:44] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:59:47] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 21:59:49] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-22 22:04:20] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:41:17] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:44:41] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:44:45] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:44:46] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:44:47] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:44:56] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:51:05] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:51:11] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:51:13] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:51:42] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:51:43] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 18:58:40] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 19:06:15] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 19:16:14] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 19:17:00] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 19:23:33] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 19:35:14] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 19:41:29] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 19:53:12] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 20:04:37] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 20:05:18] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 20:11:06] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 20:13:49] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 20:18:43] Текст ошибки: Не найден вид: D:\OpenServer\OSPanel\domains\mkweb.loc/app/views/mklogadmin\Private/index.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 50
+============================
+[2019-09-23 20:38:33] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 20:55:40] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 20:57:20] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 20:58:12] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:01:54] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:03:22] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:09:19] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:09:21] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:22:03] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:26:00] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:26:22] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:34:02] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 21:34:17] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 22:14:23] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 22:16:32] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 22:20:19] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 22:20:25] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 22:22:02] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 22:41:15] Текст ошибки: Не найден метод с именем: testAction в контроллере: app\controllers\mklogadmin\PrivateController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 61
+============================
+[2019-09-23 22:45:02] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 22:45:03] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-09-23 22:46:39] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 15:13:29] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 15:18:58] Текст ошибки: Не найден метод с именем: njnkAction в контроллере: app\controllers\mklogadmin\PrivateController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 61
+============================
+[2019-10-10 15:27:27] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 15:44:14] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 16:03:52] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 16:17:18] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 17:18:35] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 17:19:22] Текст ошибки: Не найден контроллер с именем: app\controllers\mklogadmin\NjnController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-10-10 17:29:56] Текст ошибки: Call to a member function fetchAll() on array | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\controllers\MainController.php | Строка: 29
+============================
+[2019-10-10 17:30:37] Текст ошибки: Call to a member function fetchAll() on array | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\controllers\MainController.php | Строка: 29
+============================
+[2019-10-10 17:31:12] Текст ошибки: Call to a member function fetchAll() on array | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\controllers\MainController.php | Строка: 29
+============================
+[2019-10-10 19:29:44] Текст ошибки: Не найден контроллер с именем: app\controllers\NjkController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-10-10 19:30:00] Текст ошибки: Не найден контроллер с именем: app\controllers\NjkController | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 65
+============================
+[2019-10-10 19:34:01] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\controllers\mklogadmin\PrivateController.php | Строка: 20
+============================
+[2019-10-10 19:39:20] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\controllers\mklogadmin\PrivateController.php | Строка: 20
+============================
+[2019-10-10 19:40:00] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\controllers\mklogadmin\PrivateController.php | Строка: 20
+============================
+[2019-10-10 19:40:14] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\controllers\mklogadmin\PrivateController.php | Строка: 20
+============================
+[2019-10-10 19:40:16] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\controllers\mklogadmin\PrivateController.php | Строка: 20
+============================
+[2019-10-10 21:42:33] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 21:50:07] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 21:50:07] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 22:31:44] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 22:34:52] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-10 22:35:03] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-11 19:10:07] Текст ошибки: Call to undefined function INET_ATON() | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\app\views\layouts\default.php | Строка: 20
+============================
+[2019-10-11 19:27:01] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-11 19:57:11] Текст ошибки: Нет подключения к базе данных SQLSTATE[HY000] [2006] MySQL server has gone away | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\DB.php | Строка: 23
+============================
+[2019-10-11 20:07:11] Текст ошибки: Нет подключения к базе данных SQLSTATE[HY000] [2006] MySQL server has gone away | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\DB.php | Строка: 23
+============================
+[2019-10-11 20:11:25] Текст ошибки: Нет подключения к базе данных SQLSTATE[HY000] [2006] MySQL server has gone away | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\DB.php | Строка: 23
+============================
+[2019-10-12 15:55:47] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-12 15:57:01] Текст ошибки: Не найден вид: D:fOpenServerfOSPanelfdomainsfmkweb.loc/app/views/mklogadminfPrivate/indexadminaccess.php | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\base\View.php | Строка: 51
+============================
+[2019-10-12 17:33:55] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-12 21:22:17] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-12 22:04:57] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-20 15:51:42] Текст ошибки: Нет подключения к базе данных SQLSTATE[HY000] [2002] ����������� �� �����������, �.�. �������� ��������� ������ ������ �� �����������.
+ | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\DB.php | Строка: 23
+============================
+[2019-10-20 15:51:43] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-20 15:53:43] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================
+[2019-10-24 16:44:33] Текст ошибки: Страница не найдена | Файл: D:\OpenServer\OSPanel\domains\mkweb.loc\vendor\mkweb\core\Router.php | Строка: 69
+============================

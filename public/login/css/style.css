@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+ul {
+    
+}
+
+.login-form {
+    display: flex;
+    margin: 0 auto;
+    max-width: 500px;
+    flex-flow: row wrap;
+    background-color: rgb(40, 207, 230);
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login-form div {
+    width: 80%;
+    padding: 5px;
+}
+
+.login-form label {
+    display: block;
+}
+
+.login-form input[type="submit"] {
+    width: 150px;
+    margin-left: 5px;
+    height: 35px;
+    margin: 0;
+    padding: 0;
+    margin-top: 5px;
+    border: solid 1px #fff;
+    border-radius: 5px;
+}
+
+
+
+header {
+    display: flex;
+    max-width: 80%;
+    height: 50px;
+    margin-top: 0;
+    margin: 0 auto;
+    background-color: rgb(167, 155, 155);
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    max-width: 100%;
+}
+
+header ul li {
+    display: inline;
+    align-items: center;
+    list-style-type: none;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(6, 83, 21);
+    margin: 0;
+    padding: 0;
+}
+
+.message {
+    display: flex;
+    margin: 0 auto;
+    max-width: 80%;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.cont {
+    max-width: 400px;
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(213, 233, 125);
+}
+
+.cont p {
+    max-width: 200px;
+}
+
+

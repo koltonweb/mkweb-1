@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "mkweb\\": "vendor/mkweb/core",
+            "app\\": "app"
+        }
+    },
+    "require": {
+
+    }
+}
